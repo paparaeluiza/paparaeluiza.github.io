@@ -1,4 +1,4 @@
-# Papara Luiza Internship Journal and Personal Blog
+## Papara Luiza Internship Journal and Personal Blog
 
 This  blog is a fork from [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes/) -- by designer slash illustrator [Michael Rose](http://mademistakes.com).
 
@@ -6,7 +6,7 @@ This  blog is a fork from [**Minimal Mistakes**](http://mmistakes.github.io/mini
 [![Build Status](https://travis-ci.org/mmistakes/so-simple-theme.svg?branch=master)](https://travis-ci.org/mmistakes/so-simple-theme)
 -->
 
-## This webpage is about:
+### This webpage is about:
 
 * Here is the place where I keep a journal of my Internship at ....
 * Instead of having to keep track of progress on paper, I chose to keep an online journal/blog
