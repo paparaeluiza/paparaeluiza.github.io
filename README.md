@@ -10,7 +10,7 @@ This  blog is a fork from [**Minimal Mistakes**](http://mmistakes.github.io/mini
 
 * Here is the place where I keep a journal of my Internship at ....
 * Instead of having to keep track of progress on paper, I chose to keep an online journal/blog
-{::comment}
+<!--
 * Responsive templates. Looking good on mobile, tablet, and desktop.
 * Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
 * Minimal embellishments and subtle animations.
@@ -20,7 +20,7 @@ This  blog is a fork from [**Minimal Mistakes**](http://mmistakes.github.io/mini
 * Support for Disqus Comments
 
 ![screenshot of So Simple Theme](http://mmistakes.github.io/so-simple-theme/images/so-simple-theme-preview.jpg)
-{:/comment}
+-->
 
 See a [live version of this website here](http://paparaeluiza.github.io) hosted on GitHub.
 
