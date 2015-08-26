@@ -16,7 +16,7 @@ sass:
   sass_dir: _sass
   style: compressed
 gems:
-  - jekyll-sitemap
+  #- jekyll-sitemap
 
 kramdown:
   auto_ids: true
