@@ -3,6 +3,7 @@ layout: page
 title: In my mind
 excerpt: "An archive of blog posts sorted by date."
 search_omit: true
+share: true
 ---
 
 <ul class="post-list">
