@@ -8,6 +8,7 @@ tags: []
 image:
   feature:
 date: 2015-08-26T20:16:22+02:00
+share: true
 ---
 
 # Titlu heading 1 exemplu
