@@ -28,7 +28,7 @@ tags
 theme-setup
 *.md
 .editorconfig
-.gitignore
+# .gitignore
 .jshintrc
 *.yml
 *.ico
