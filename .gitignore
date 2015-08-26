@@ -6,16 +6,3 @@ codekit-config.json
 node_modules
 .sass-cache
 .jekyll-metadata
-
-# added later
-.git
-.sass-cache
-# _data
-# _includes
-# _layouts
-# _posts
-# _sass
-# _templates
-theme-setup
-# .editorconfig
-# .travis.yml
