@@ -10,4 +10,6 @@ image:
 date: 2015-08-26T20:16:22+02:00
 ---
 
-Hello in my mind!
+# Titlu heading 1 exemplu
+
+Hello Luiza in my mind!
