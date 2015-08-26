@@ -18,7 +18,8 @@ This  blog is a fork from [**Minimal Mistakes**](http://mmistakes.github.io/mini
 * [Custom 404 page](http://mmistakes.github.io/so-simple-theme/404.html) to get you started.
 * Basic [search capabilities](https://github.com/mathaywarduk/jekyll-search)
 * Support for Disqus Comments
-
+-->
+<!--
 ![screenshot of So Simple Theme](http://mmistakes.github.io/so-simple-theme/images/so-simple-theme-preview.jpg)
 -->
 
