@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
+title: This Intern
+excerpt: "Luiza Papara"
 modified: 2014-08-08T19:44:38.564948-04:00
 #image:
 #  feature: so-simple-sample-image-4.jpg
@@ -9,18 +9,8 @@ modified: 2014-08-08T19:44:38.564948-04:00
 #  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+The present journal is a tool in documenting the internship period at Spinderihallerne within Innovation and Business Development Department. This interns mind never pauses, either I write about the activities or plans of tomorrow or I write about the worries of today, this blog is the evidence of my 3 months journey. With great expectation I start, with magnificent life lessons I will finish.
 
-## So Simple Theme is all about:
+All the cliche that you heard of I am: a fast learner, open minded, ambitious and enthusiastic, always trying to push myself to the limits so I can give my best in everything. But what is far most important to mention is that I have a fine irony hard to keep up with. :D
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
-
-[^1]: Example: *domain.com/category-name/post-title*
+My story is simple, not so far in the past I was an average person, the average class mate, no special skills, no special interests, no hobbies. Still the past is past and the new me has discovered the power of trying, the power of positive thinking, not afraid of failure. The entrepreneurial mind set is on and nothing can stop me. I will use the present project, “The spinning intern”,  in order to evaluate my 3 months of personal and professional development.
