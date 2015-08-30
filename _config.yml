@@ -34,7 +34,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Luiza Papara
-  avatar: bio-photo.jpg
+  avatar: author-photo-me.jpg
   email: paparaeluiza@gmail.com
   disqus-shortname: luizapapara
   twitter: #username
