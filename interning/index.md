@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog
-excerpt: "An archive of blog posts sorted by date."
+title: Interning
+excerpt: "Articles about my internship progress and activities."
 search_omit: true
 ---
 
