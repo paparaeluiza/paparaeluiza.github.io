@@ -1,4 +1,4 @@
-# _site
+ _site
 .DS_Store
 *.sublime-project
 *.sublime-workspace
@@ -6,35 +6,3 @@ codekit-config.json
 node_modules
 .sass-cache
 .jekyll-metadata
-
-# added later - leave only the _site in the repository
-.git
-.sass-cache
-_data
-_includes
-_layouts
-_posts
-_sass
-_templates
-about
-articles
-assets
-blog
-images
-in-my-mind
-interning
-search
-tags
-theme-setup
-*.md
-.editorconfig
-# .gitignore
-.jshintrc
-*.yml
-*.ico
-index.html
-Gemfile
-Gemfile.lock
-Gruntfile.js
-package.json
-search.json
