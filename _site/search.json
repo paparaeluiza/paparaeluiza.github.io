@@ -1,0 +1,59 @@
+[
+
+  
+    {
+      "title"			: "New Post Title",
+      "link"			: "https://paparaeluiza.github.io/in-my-mind/new-post-title/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Interning among the minions",
+      "link"			: "https://paparaeluiza.github.io/interning/first-day/",
+      "excerpt"		: "Spinderihallerne Vejle Interning"
+    }
+  
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+    ,{
+      "title"			: "About the Jekyll Theme",
+      "link"			: "https://paparaeluiza.github.io/about/",
+      "excerpt"		: "So Simple is a responsive Jekyll theme for your words and images."
+    }
+  
+
+  
+
+  
+
+  
+
+  
+    ,{
+      "title"			: "Theme Setup",
+      "link"			: "https://paparaeluiza.github.io/theme-setup/",
+      "excerpt"		: "Instructions on how to install and customize the Jekyll theme So Simple."
+    }
+  
+
+  
+
+  
+
+  
+
+  
+
+]
