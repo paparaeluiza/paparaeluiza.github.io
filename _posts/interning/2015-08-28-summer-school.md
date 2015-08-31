@@ -22,6 +22,10 @@ The second activity that I was looking forward was the Skype dialogue with the o
 There were two days full of learning! And remember, wonder because you are on the good path if the answer of your question generates another question.
 
 <figure class="half">
-	<img src="{{site.url}}/images/interning/28-08-2015/IMG_1285.JPG" alt="image">
-	<img src="{{site.url}}/images/interning/28-08-2015/IMG_1286.JPG" alt="image">
+  <a href="{{site.url}}/images/interning/28-08-2015/IMG_1285.JPG">
+    <img src="{{site.url}}/images/interning/28-08-2015/IMG_1285.JPG" alt="image">  
+  </a>
+  <a href="{{site.url}}/images/interning/28-08-2015/IMG_1286.JPG">
+    <img src="{{site.url}}/images/interning/28-08-2015/IMG_1286.JPG" alt="image">  
+  </a>
 </figure>
