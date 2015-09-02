@@ -14,10 +14,6 @@ The innovative displays and installations will transpose you into the woods, clo
 As I mentioned before the building speaks, and today it got to tell its story.
 
 <figure>
-	<a href="{{site.url}}/images/interning/20-08-2015/2015-08-20 12.59.16.jpg"><img src="{{site.url}}/images/interning/20-08-2015/2015-08-20 12.59.16.jpg" alt="image"></a>
-</figure>
-
-<figure>
 	<a href="{{site.url}}/images/interning/20-08-2015/2015-08-20 13.06.24.jpg"><img src="{{site.url}}/images/interning/20-08-2015/2015-08-20 13.06.24.jpg" alt="image"></a>
 </figure>
 
@@ -31,4 +27,8 @@ As I mentioned before the building speaks, and today it got to tell its story.
 
 <figure>
 	<a href="{{site.url}}/images/interning/20-08-2015/2015-08-20 13.18.36.jpg"><img src="{{site.url}}/images/interning/20-08-2015/2015-08-20 13.18.36.jpg" alt="image"></a>
+</figure>
+
+<figure>
+	<a href="{{site.url}}/images/interning/20-08-2015/2015-08-20 12.59.16.jpg"><img src="{{site.url}}/images/interning/20-08-2015/2015-08-20 12.59.16.jpg" alt="image"></a>
 </figure>
