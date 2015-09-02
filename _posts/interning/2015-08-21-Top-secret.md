@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-Today I got the opportunity to go backstage on an evolving project. Today I realized how much work and time are used until a project finally reaches the implementation phase. I will not be able to offer details about the project, the informations were handed in as confidential but I will mention that the UN was involved.
+Today I got the opportunity to go "backstage" on an evolving project. Today I realized how much work and time are used until a project finally reaches the implementation phase. I will not be able to offer details about the project, the informations were handed in as confidential but I will mention that the UN was involved.
 
 After the meeting I was able to create a list with the most important aspects that need to be taken into consideration while initiating a project:
 
