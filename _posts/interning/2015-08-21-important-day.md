@@ -8,8 +8,18 @@ comments: true
 share: true
 ---
 
-The life of a project on the backstage. How much work there is needed and time is used until a project finally gets to be launched. Collaboration- partners, finding the right founding. The bumpy road  having to deal with competition, having to please de founding organization, too many interests – finding the right focus, the right target group and the right implementation actions.  The bureaucracy behind the process and the wish for improvement, change and helping.
+Today I got the opportunity to go backstage on an evolving project. Today I realized how much work and time are used until a project finally reaches the implementation phase. I will not be able to offer details about the project, the informations were handed in as confidential but I will mention that the UN was involved.
 
-It may really help through a project process to ask the opinion of an “outsider”- that person that haven't been on board with the project since day one, that person that may lack the expertise in the field but may observe what is the problem, what hinder the project. The outsider may be the person who will dare to tell the truth when nobody else is doing it. So it have been a productive meeting where the problem that the project deals with have been defined and a new plan emerged.
+After the meeting I was able to create a list with the most important aspects that need to be taken into consideration while initiating a project:
+<ul>
+  <li>A major wish for helping and improving</li>
+  <li>Defining the right problem, the right target group and the right implementation actions</li>
+  <li>The relationship with the collaboration partners</li>
+  <li>The founding</li>
+  <li>The "competition" - the other projects that deal with the same problem that your project tries to solve</li>
+  <li>The bureaucracy behind the process</li>
+</ul>  
 
-I was the “outsider” and we had a productive meeting, that put back on track the process of this top secret project.
+Through the process it may be useful the opinion of an “outsider”- that person who was not on board since day one, that person that may lack the expertise but may observe what hinders the project. The "outsider" may be that person that represents a different perspective.
+
+I was the “outsider” today, and we had a productive meeting, where the issues that has stalled the project were identified and a new plan was discussed. At the end of my first internship week I had a feeling of fulfillment. 
