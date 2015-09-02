@@ -7,7 +7,7 @@ tags: [journal, vejle, activities]
 comments: true
 share: true
 ---
-Starting with the second day I got to work with a project, you will read more about it in the next post.
+Starting with the second day I got to work with a project that you will read more about it in the next post.
 
 But the big discovery that I made this day transformed my lunch break into one hour break. What I didn't know was that Spinderihallerne hosts a very interesting museum right inside the building .... and it is for free. The museum covers the history of Vejle region, with interesting facts and stories. It is a time travel experience dated way back in the Iron Age, followed by the Renaissance trade and wars and ending with 1800-1900 development of the industry.
 
