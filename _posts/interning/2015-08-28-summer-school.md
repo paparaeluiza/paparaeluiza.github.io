@@ -32,7 +32,8 @@ There were two days full of learning!
 </figure>
 
 <figure>
-	<a href="{{site.url}}/images/interning/28-08-2015/graphic.jpg"><img src="{{site.url}}/images/interning/28-08-2015/graphic.jpg" alt="image"></a>
+	<a href="{{site.url}}/images/interning/28-08-2015/IMG_1303.JPG"><img src="{{site.url}}/images/interning/28-08-2015/IMG_1303.JPG" alt="image"></a>
+	<figcaption>The two days of Innovation Summer School in images - unfinished.</figcaption>
 </figure>
 
 PS: Wonder! because you are on the good path if the answer of your question generates another question.
