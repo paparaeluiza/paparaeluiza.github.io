@@ -14,7 +14,7 @@ During the last 2 days I had the opportunity to participate at an inspiring even
 	<a href="{{site.url}}/images/interning/28-08-2015/IMG_1284.JPG"><img src="{{site.url}}/images/interning/28-08-2015/IMG_1284.JPG" alt="image"></a>
 </figure>
 
-The 2 days activities generated a lot of knowledge in this interns mind in fields like Innovation, Productivity, Resilience and Leadership. It was ones guide on how to inspire as a leader, how to become a graphic artist or how to built up communities in order to solve the most drastic problems the mankind faces.
+The 2 days activities generated a lot of knowledge, for this intern mind, in fields like Innovation, Productivity, Resilience and Leadership. It was ones guide on how to inspire as a leader, how to become a graphic artist or how to built up communities in order to solve the most drastic problems the mankind faces.
 
 There were two activities that draw my attention.
 
