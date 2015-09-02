@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-The first day as an intern was all about the new people, the new names, the new faces and the new place. Yet, in the middle of all this madness, a couple of things were familiar; my internship coordinator [Lars Henrik Nielsen ](https://www.facebook.com/LarsHenrikNielsen) and ... the minions. :) The cutest message, from the team and the minions, welcomed me on the new office.
+The first day as an intern was all about the new people, the new names, the new faces and the new place. Yet, in the middle of all this madness, a couple of things were familiar; my internship coordinator [Lars Henrik Nielsen ](https://www.facebook.com/LarsHenrikNielsen) and ... the minions. :smile: The cutest message, from the team and the minions, welcomed me on the new office.
 
 <figure>
 	<a href="{{site.url}}/images/interning/19-08-2015/2015-08-19 11.51.28.jpg"><img src="{{site.url}}/images/interning/19-08-2015/2015-08-19 11.51.28.jpg" alt="image"></a>
