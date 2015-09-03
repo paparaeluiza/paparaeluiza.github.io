@@ -45,8 +45,8 @@ With all the preparation the visit was quite short.
 * The queen arrived, received the most unbelievable paper flower bouquet.
 * The queen visited the Spinderihallerne Museum.
 * The queen was introduced to two of the most successful projects: Dystopia Entertainment and [Thomas Rørvang](http://www.roervang.com/) furniture maker.
-* The queen tried __the chair__.
+* The queen tried the chair.
 * The choir begin singing - marking the beginning of the brunch.
-* The choir begin singing, __again__ - marking the end of the brunch and also the end of the visit.
+* The choir begin singing, again- marking the end of the brunch and also the end of the visit.
 
 The funny thing was that the __"behave as natural day"__ fast escalated and everybody turned into photographers prepared to snap a shot. I do not know if somebody managed to work today but for sure it was a memorable day.
