@@ -12,6 +12,7 @@ Today Vejle got its festive look. Danemark's royal pair visited the city as part
 I can not mention, the excitement, when I was informed about this visit. Spinderi's people talked about this event for weeks and visible changes occurred on the last two days. A protocol was set and shared among all the employees and several visit rules were listed.
 
 The shocking part, for me, was the __"no special"__ dress code rule. The first time when I heard about the visit I already imagined how I am going to dress, my ivory dress with high heels were expecting for an occasion like this since I bought them. Well __plan A__ dissolved and I had to adapt with the visit protocol. Everybody had to behave as natural as a normal day at work, therefore I had to tone down my excitement and the outfit. :bowtie:
+
 Another rule was that I had to get inside the building with about 3 hours before the visit otherwise I would risk not to get to work. High security measures were taken and everybody got serious about it.
 The building got festive also, the flags were standing tall and the event hall transformed for the royal brunch.
 
