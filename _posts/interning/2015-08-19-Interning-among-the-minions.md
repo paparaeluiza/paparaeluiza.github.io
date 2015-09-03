@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-The first day as an intern was all about the new people, the new names, the new faces and the new place. Yet, in the middle of all this madness, a couple of things were familiar; my internship coordinator [Lars Henrik Nielsen ](https://www.facebook.com/LarsHenrikNielsen) and ... the minions. :smile: The cutest message, from the team and the minions, welcomed me on the new office.
+The first day as an intern was all about the new people, the new names, the new faces and the new place. Yet, in the middle of all this madness, a couple of things were familiar; my internship coordinator <a href="https://www.facebook.com/LarsHenrikNielsen" target="_blank">Lars Henrik Nielsen</a> and ... the minions. :smile: The cutest message, from the team and the minions, welcomed me on the new office.
 
 <figure>
 	<a href="{{site.url}}/images/interning/19-08-2015/2015-08-19 11.51.28.jpg"><img src="{{site.url}}/images/interning/19-08-2015/2015-08-19 11.51.28.jpg" alt="image"></a>
@@ -42,6 +42,6 @@ The building is decorated in such a manner that it is vocal and speaks to you, w
 	<a href="{{site.url}}/images/interning/19-08-2015/2015-08-20 09.37.07.jpg"><img src="{{site.url}}/images/interning/19-08-2015/2015-08-20 09.37.07.jpg" alt="image"></a>
 </figure>
 
-Today I met the colleagues that make Spinderihallerne “spinning”, from the financial department to the top leader, people with beautiful minds that create unbelievable projects. Today I was introduced to two projects, one who deals with using philosophical paradigms in solving social problems and business issues and the second one was a quick tour of [Dystopia's team](https://www.facebook.com/DystopiaEntertainment?fref=ts) haunted house that is placed right on Spinderihallerne's yard.
+Today I met the colleagues that make Spinderihallerne “spinning”, from the financial department to the top leader, people with beautiful minds that create unbelievable projects. Today I was introduced to two projects, one who deals with using philosophical paradigms in solving social problems and business issues and the second one was a quick tour of <a href="https://www.facebook.com/DystopiaEntertainment?fref=ts" target="_blank">Dystopia's team</a> haunted house that is placed right on Spinderihallerne's yard.
 
 The building, the people,...the minions are such an inspiration! The entire environment is the best place for being creative, innovate and learn from the best.
