@@ -45,7 +45,7 @@ With all the preparation the visit was quite short.
 * The queen arrived, received the most unbelievable paper flower bouquet.
 * The queen visited the Spinderihallerne Museum.
 * The queen was introduced to two of the most successful projects: Dystopia Entertainment and [Thomas Rørvang](http://www.roervang.com/) furniture maker.
-* The queen tried the chair.
+* The queen tried Thomas's chair.
 * The choir begin singing - marking the beginning of the brunch.
 * The choir begin singing, again- marking the end of the brunch and also the end of the visit.
 
