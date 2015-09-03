@@ -29,7 +29,7 @@ The building got festive also, the flags were standing tall and the event hall t
 </figure>
 
 <figure>
-	<a href="{{site.url}}/images/interning/02-09-2015/11896333_1015386171826205_8531526710089849441_o.jpg"><img src="{{site.url}}/images/interning/02-09-2015/11896333_1015386171826205_8531526710089849441_o.jpg" alt="image"></a>
+	<a href="{{site.url}}/images/interning/02-09-2015/11896333_1015386171826205_8531526710089849441_o.jpg"><img src="{{site.url}}/images/interning/02-09-2015/11896333_1015386171826205_8531526710089849441_o1.jpg" alt="image"></a>
 </figure>
 
 <figure>
