@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-The first day as an intern was all about the new people, the new names, the new faces and the new place. Yet, in the middle of all this madness, a couple of things were familiar; my internship coordinator <a href="https://www.facebook.com/LarsHenrikNielsen" target="_blank">Lars Henrik Nielsen</a> and ... the minions. :smile: The cutest message, from the team and the minions, welcomed me on the new office.
+The first day as an intern was all about the new people, the new names, the new faces and the new place. Yet, in the middle of all this madness, a couple of things were familiar; my internship coordinator <a href="https://www.facebook.com/LarsHenrikNielsen" target="_blank">Lars Henrik Nielsen</a> and ... the minions. :smile: The cutest message, from the team and the minions, greeted me on the new office.
 
 <figure>
 	<a href="{{site.url}}/images/interning/19-08-2015/2015-08-1911.51.28.jpg.jpg"><img src="{{site.url}}/images/interning/19-08-2015/2015-08-1911.51.28.jpg" alt="image"></a>
