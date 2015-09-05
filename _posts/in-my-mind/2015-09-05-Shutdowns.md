@@ -24,4 +24,4 @@ When __The spinning intern__ project came through my mind, the very first though
 
 That's why I encourage you to chase away all your mind blocks and negative thinking, to try and if that is all it takes to get the job done and to accomplish your dream, make a full out of yourself. Do not limit yourself, do not stop from achieving greatness!!!
 
-PS: This time, no help from __The Specialist__ was required in finding the markup for citation. I guess I developed a new skill: coding. :smirk:
+PS: This time, no help from __The Specialist__ was required in finding the markdown for citation. I guess I developed a new skill: coding. :smirk:
