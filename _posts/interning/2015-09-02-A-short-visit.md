@@ -9,7 +9,7 @@ share: true
 ---
 
 Today Vejle got its festive look. Danemark's royal pair visited the city as part of their summer cruise. One of the stops during this visit was Spinderihallerne, and the minions office that become royal's pair resting room.
-I can not mention, the excitement, when I was informed about this visit. Spinderi's people talked about this event for weeks and visible changes occurred on the last two days. A protocol was set and shared among all the employees and several visit rules were listed.
+I cannot mention, the excitement, when I was informed about this visit. Spinderi's people talked about this event for weeks and visible changes occurred on the last two days. A protocol was set and shared among all the employees and several visit rules were listed.
 
 The shocking part, for me, was the "no special" dress code rule. The first time when I heard about the visit I already imagined how I am going to dress, my ivory dress with high heels that were expecting for an occasion like this since I bought them. Well plan A dissolved and I had to adapt with the visit protocol. Everybody had to behave as natural as a normal day at work, therefore I had to tone down my excitement and the outfit. :bowtie:
 
