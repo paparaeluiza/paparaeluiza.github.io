@@ -3,7 +3,7 @@ layout: post
 title: "Shutdowns"
 excerpt: "Mind Blockage Creativity NO"
 categories: in-my-mind
-tags: [thoughts, Vejle, creativity, positive thinking]
+tags: [thoughts, vejle, creativity, positive thinking]
 comments: true
 share: true
 ---
