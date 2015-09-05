@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-"This is stupid!", "I can't do it!", "God, it is too dificult!", "I don't know how; it's too complicated!", "The others will think I'm stupid." We all have this thoughts most of the time when action needs to be taken.
+"This is stupid!", "I can't do it!", "God, it is too difficult!", "I don't know how; it's too complicated!", "The others will think I'm stupid." We all have this thoughts most of the time when action needs to be taken.
 
 Not so long time ago I was not aware that there are studies on how to overcome the mind blocks and avoid shutdown. The thing is that whenever this thoughts appear our creativity disappears. I think it will be such a sad world if all the brilliant minds had fallowed their negative thoughts; a world with no electricity, no phones, no cars, no internet. All this inventions did not appear over night, them are the result of thousands of attempts and millions of mind blocks chased away.
 
