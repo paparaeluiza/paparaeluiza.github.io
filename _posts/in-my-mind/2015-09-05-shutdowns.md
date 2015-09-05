@@ -16,7 +16,8 @@ Perseverance and positive thinking is the key to __greatness__. Even though I am
 
 When __The spinning intern__ project came through my mind, the very first thoughts were to backdown, to kill my idea. I knew I am not good in coding, I was worried about my writing ability, I was insecure about so many things, but what speaks to me every time, restarting the open, creative thinking mode is my motto.
 
->Positive something is better than negative nothing.
+>Positive anything is better than negative nothing.
+                                               Elbert Hubbard
 
 <figure>
 	<a href="{{site.url}}/images/in-my-mind/05-09-2015/IMG_1367.JPG"><img src="{{site.url}}/images/in-my-mind/05-09-2015/IMG_1367.JPG" alt="image"></a>
