@@ -15,7 +15,7 @@ One week ago I started to research for my BA report, and about 4 ideas came to m
 
 But today it was a big day. Together with my internship coordinator, Lars, we discussed about my future theme for the BA report. The conversation turned out so productive, that not only I set the problem statement but also the analysis questions.
 
-I was thinking today abut this moment, the __OH__ moment, when you know you just have it, that it is yours. The creative people will name it the epiphany, is that phase when all the puzzle pieces fit together, and you can see nothing but light. :boom:
+I was thinking today abut this moment, the __OH__ moment, when you know you just have it, that it is yours. The creative people will name it epiphany, is that phase when all the puzzle pieces fit together, and you can see nothing but light. :boom:
 Well the moment didn't turned me blind but I become aware that there is a direction.
 
 I am still thinking at what happened today and the process that I am passing through, and how situations like this sets hope. I feel incredible joy when I create value, when I am developing, when I am trying.  
