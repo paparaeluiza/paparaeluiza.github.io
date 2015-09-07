@@ -13,7 +13,7 @@ One week ago I started to research for my BA report, and about 4 ideas came to m
 	<a href="{{site.url}}/images/in-my-mind/07-09-2015/11758995_895262990549544_794483151_n.jpg"><img src="{{site.url}}/images/in-my-mind/07-09-2015/11758995_895262990549544_794483151_n.jpg" alt="image"></a>
 </figure>
 
-But today it was a big day. Together with my internship coordinator, Lars, we discussed about my future theme for the BA report. The conversation turned out so productive, that not only I set the problem statement but also the analysis questions. It is so strange the feeling that I experience, I just feel happiness and hope.
+But today it was a big day. Together with my internship coordinator, Lars, we discussed about my future theme for the BA report. The conversation turned out so productive, that not only I set the problem statement but also the analysis questions.
 
 I was thinking today abut this moment, the __OH__ moment, when you know you just have it, that it is yours. The creative people will name it the epiphany, is that phase when all the puzzle pieces fit together, and you can see nothing but light. :boom:
 Well the moment didn't turned me blind but I become aware that there is a direction.
