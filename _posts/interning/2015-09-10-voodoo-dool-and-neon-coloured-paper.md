@@ -32,7 +32,7 @@ Because it was interesting to discover the techniques I have learned in school a
 	<a href="{{site.url}}/images/interning/10-09-2015/12016696_896947597047750_1589249363_n.jpg"><img src="{{site.url}}/images/interning/10-09-2015/12016696_896947597047750_1589249363_n.jpg" alt="image"></a>
 </figure>
 
-What I have learned new from the facilitation workshop?
+What I have learned from the facilitation workshop?
 
 I was introduced with two new tools; the trend card game, a game aiming at ease the process of discussions and future prediction and the critique method used in order for the participants to come up with the best detailed solution. I also had to opportunity to find answers to a dilemma I had related with the facilitation process and the facilitator role.  I plan to remember and use this new tools and advices when the situation will require it.
 
