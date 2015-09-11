@@ -17,7 +17,7 @@ Today when I arrived at the office a big Tiger bag got my attention. In the bag 
  </figure>
 
  <figure>
- 	<a href="{{site.url}}/images/interning/10-09-2015/11850966_896947393714437_1689459727_n(1).jpg"><img src="{{site.url}}/images/interning/10-09-2015/11850966_896947393714437_1689459727_n(1).jpg" alt="image"></a>
+ 	<a href="{{site.url}}/images/interning/10-09-2015/11850966_896947393714437_1689459727_n (1).jpg"><img src="{{site.url}}/images/interning/10-09-2015/11850966_896947393714437_1689459727_n (1).jpg" alt="image"></a>
  </figure>
 
 Why it was useful to assist to the facilitation workshop?
