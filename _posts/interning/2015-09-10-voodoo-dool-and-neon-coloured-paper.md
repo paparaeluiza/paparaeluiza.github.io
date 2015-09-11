@@ -25,11 +25,11 @@ Why it was useful to assist to the facilitation workshop?
 Because it was interesting to discover the techniques I have learned in school and observe them applied in a real situation. I have recognized the trend spotting tool that was used to predict the future and the prototyping technique that helped transform the ideas in reality on a small scale. This gave me a small amount of satisfaction knowing that what I learned in school wasn't for nothing.
 
 <figure>
-	<a href="{{site.url}}/images/interning/10-09-2015/11998623_896947593714417_465724184_n.jpg"><img src="{{site.url}}/images/interning/0-09-2015/11998623_896947593714417_465724184_n.jpg" alt="image"></a>
+	<a href="{{site.url}}/images/interning/10-09-2015/11998623_896947593714417_465724184_n.jpg"><img src="{{site.url}}/images/interning/10-09-2015/11998623_896947593714417_465724184_n.jpg" alt="image"></a>
 </figure>
 
 <figure>
-	<a href="{{site.url}}/images/interning/07-09-2015/12016696_896947597047750_1589249363_n.jpg"><img src="{{site.url}}/images/interning/07-09-2015/12016696_896947597047750_1589249363_n.jpg" alt="image"></a>
+	<a href="{{site.url}}/images/interning/10-09-2015/12016696_896947597047750_1589249363_n.jpg"><img src="{{site.url}}/images/interning/10-09-2015/12016696_896947597047750_1589249363_n.jpg" alt="image"></a>
 </figure>
 
 What I have learned new from the facilitation workshop?
