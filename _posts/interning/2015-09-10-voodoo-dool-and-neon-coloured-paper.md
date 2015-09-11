@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Voodoo doll, fuzzy material balls and neon colored paper"
+title: "Voodoo doll and neon colored paper"
 excerpt: "Spinderihallerne Vejle Interning Facilitation Future"
 categories: interning
 tags: [journal, vejle, activities, experience, facilitation]
