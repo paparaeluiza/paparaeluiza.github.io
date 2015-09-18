@@ -3,7 +3,7 @@ layout: post
 title: "Innovation at its best"
 excerpt: "Vejle Spinderihallerne Fabrikanterne Opening  "
 categories: interning
-tags: [events, participate, Fabrikanterne, design]
+tags: [events, Fabrikanterne, design, innovation]
 comments: true
 share: true
 ---
