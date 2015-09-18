@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-Bubbly sparkling whine:wine_glass:, smiling people and many tiny preciouses creations to admire, that's how I describe the today's event. Today was the grand opening day of a new cool place, to try while out in town, the <a href="http://fabrikanterne.com/" target="_blank"> Fabrikanterne</a>. What makes this place special, is the whole concept of combining the designers and artists working space with a very cozy and creative place, while working out of the office, and a shop that gathers jewelry, baby clothes, ceramics, decoration objects, unique knits, natural care products and so many other creations. It's al about opportunities, like speaking directly with the designers, buying some unique creations or simply enjoying your own lunch in the special area designed for the passersby. Either you are a mother with your children, in search for new activities, a student, in search for a wi-fi spot or a creative person with your own concept this is the right place to be.
+Bubbly sparkling whine:wine_glass:, smiling people and many tiny precious creations to admire, that's how I describe the today's event. It was the grand opening day of a new cool place, to try while in town, the <a href="http://fabrikanterne.com/" target="_blank"> Fabrikanterne</a>. What makes this place special, is the whole concept of combining the designers and artists working space with a very cozy and creative resting place, and a shop full with jewelry, baby clothes, ceramics, decoration objects, unique knits, natural care products and so many other creations. It's al about opportunities, like speaking directly with the designers, buying some unique creations or simply enjoying your own lunch in the special area designed for the passersby. Either you are a mother with your children, in search for new activities, a student, in search for a wi-fi spot or a creative person with your own concept this is the right place to be.
 
 <figure class="half">
   <a href="{{site.url}}/images/interning/18-09-2015/IMG_1459.jpg">
@@ -64,7 +64,7 @@ Bubbly sparkling whine:wine_glass:, smiling people and many tiny preciouses crea
   </a>
 </figure>
 
-I have never been to an opening before so I have enjoyed the cut of the ribbon and the mayors congratulatory speech. Smiling, curious  people crossed the entrance door, admired the fabrics kept "at cold" and all the beautiful displays full with high quality products. I think, all, was a big hit!
+I have never been to an opening before so I have enjoyed the cut of the ribbon and the mayors congratulatory speech. Smiling, curious  people crossed the entrance door, admired the fabrics kept "at cold" and all the beautiful displays full with high quality products. I think it was a big hit!
 
 <figure>
 	<a href="{{site.url}}/images/interning/18-09-2015/IMG_1439.jpg"><img src="{{site.url}}/images/interning/18-09-2015/IMG_1439.jpg" alt="image"></a>
