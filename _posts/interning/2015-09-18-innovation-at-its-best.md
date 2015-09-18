@@ -38,8 +38,8 @@ Bubbly sparkling whine:wine_glass:, smiling people and many tiny preciouses crea
 </figure>
 
 <figure class="half">
-  <a href="{{site.url}}/images/interning/18-09-2015/IMG_1471.jpg">
-    <img src="{{site.url}}/images/interning/18-09-2015/IMG_1471.jpg" alt="image">  
+  <a href="{{site.url}}/images/interning/18-09-2015/IMG_1464.jpg">
+    <img src="{{site.url}}/images/interning/18-09-2015/IMG_1464.jpg" alt="image">  
   </a>
   <a href="{{site.url}}/images/interning/18-09-2015/IMG_1457.jpg">
     <img src="{{site.url}}/images/interning/18-09-2015/IMG_1457.jpg" alt="image">  
@@ -59,8 +59,8 @@ Bubbly sparkling whine:wine_glass:, smiling people and many tiny preciouses crea
   <a href="{{site.url}}/images/interning/18-09-2015/IMG_1480.jpg">
     <img src="{{site.url}}/images/interning/18-09-2015/IMG_1480.jpg" alt="image">  
   </a>
-  <a href="{{site.url}}/images/interning/18-09-2015/IMG_1464.jpg">
-    <img src="{{site.url}}/images/interning/18-09-2015/IMG_1464.jpg" alt="image">  
+  <a href="{{site.url}}/images/interning/18-09-2015/IMG_1471.jpg">
+    <img src="{{site.url}}/images/interning/18-09-2015/IMG_1471.jpg" alt="image">  
   </a>
 </figure>
 
