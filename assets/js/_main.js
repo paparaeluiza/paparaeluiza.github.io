@@ -58,9 +58,7 @@ $(document).ready(function() {
     FB.ui({
       method: 'feed',
       link: 'https://developers.facebook.com/docs/',
-      caption: {{ page.title }},
+      caption: 'luizapapara.com',
     }, function(response){});
   } );
-
-
 });
