@@ -66,13 +66,6 @@
           data-width="450"
           data-show-faces="false">
         </div>
-        <script>
-        FB.ui({
-          method: 'feed',
-          link: 'https://developers.facebook.com/docs/',
-          caption: {{ page.title }},
-        }, function(response){});
-        </script>
         {% if (site.owner.disqus-shortname and page.comments) or site.comments %}
           <div id="disqus_thread"></div><!-- /#disqus_thread -->
           {% include disqus-comments.html %}

@@ -51,4 +51,16 @@ $(document).ready(function() {
     // make it unique to apply your CSS animations just to this exact popup
     mainClass: 'mfp-fade'
   });
+
+  $( 'body' ).on( 'contextmenu', function() {
+
+    // call facebook feed on right click
+    FB.ui({
+      method: 'feed',
+      link: 'https://developers.facebook.com/docs/',
+      caption: {{ page.title }},
+    }, function(response){});
+  } );
+
+
 });
