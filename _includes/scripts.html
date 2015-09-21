@@ -21,5 +21,8 @@
     ga.src = 'https://stats.g.doubleclick.net/dc.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
+
+  // initialize selection sharer plugin
+  var sharer = new SelectionSharer('p');
 </script>
 {% endif %}
