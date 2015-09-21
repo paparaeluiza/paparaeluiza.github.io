@@ -59,6 +59,7 @@ $(document).ready(function() {
       method: 'feed',
       link: 'https://developers.facebook.com/docs/',
       caption: 'luizapapara.com',
+      picture: 'https://paparaeluiza.github.io/images/interning/18-09-2015/IMG_1459.jpg'
     }, function(response){});
   } );
 });
