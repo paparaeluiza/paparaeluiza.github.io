@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Epitome
-excerpt: "Monthly summary about my key learnings, personal and professional development."
+excerpt: "Monthly summary about key learnings, personal and professional development."
 search_omit: true
 ---
 
