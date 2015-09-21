@@ -60,6 +60,12 @@
       </footer>
       <div class="entry-content">
         {{ content }}
+        <div
+          class="fb-like"
+          data-share="true"
+          data-width="450"
+          data-show-faces="false">
+        </div>
         {% if (site.owner.disqus-shortname and page.comments) or site.comments %}
           <div id="disqus_thread"></div><!-- /#disqus_thread -->
           {% include disqus-comments.html %}
