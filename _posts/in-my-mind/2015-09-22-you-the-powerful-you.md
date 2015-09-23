@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "You, the powerful you"
+title: "You, the powerful you!"
 excerpt: "Vejle Spinderihallerne Never give up"
 categories: in-my-mind
 tags: [assignment, fight, never give up ]
