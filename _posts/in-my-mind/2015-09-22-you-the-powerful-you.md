@@ -18,8 +18,3 @@ You are the higher power, you should be aware that only you can start acting and
 	<a href="{{site.url}}/images/in-my-mind/22-09-2015/imageedit_7_9641943920.jpg"><img src="{{site.url}}/images/in-my-mind/22-09-2015/imageedit_7_9641943920.jpg" alt="image"></a>
 	<figcaption> Don't kill your dreams. </figcaption>
 </figure>
-
-<figure>
-	<a href="{{site.url}}/images/in-my-mind/22-09-2015/imageedit_9_3656356710.jpg"><img src="{{site.url}}/images/in-my-mind/22-09-2015/imageedit_9_3656356710.jpg" alt="image"></a>
-	<figcaption> Don't kill your dreams. </figcaption>
-</figure>
