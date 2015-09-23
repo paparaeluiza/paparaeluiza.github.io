@@ -15,6 +15,6 @@ Let's imagine the following scenario. You have received an assignment, with an i
 You are the higher power, you should be aware that after every __block__ will be others until you achieve your goal. You should never give up, because that's why dreams die. You must breathe ... breathe ... and persevere by starting from where you left.
 
 <figure>
-	<a href="{{site.url}}/images/in-my-mind/22-09-2015/imageedit_7_9641943920.jpg"><img src="{{site.url}}/images/in-my-mind/22-09-2015/imageedit_7_9641943920.jpg" alt="image"></a>
+	<a href="{{site.url}}/images/in-my-mind/22-09-2015/imageedit_2_4202337097.jpg"><img src="{{site.url}}/images/in-my-mind/22-09-2015/imageedit_2_4202337097.jpg" alt="image"></a>
 	<figcaption> Don't kill your dreams. </figcaption>
 </figure>
