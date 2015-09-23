@@ -16,5 +16,5 @@ You are the higher power, you should be aware that only you can make dreams happ
 
 <figure>
 	<a href="{{site.url}}/images/in-my-mind/22-09-2015/imageedit_7_9641943920.jpg"><img src="{{site.url}}/images/in-my-mind/22-09-2015/imageedit_7_9641943920.jpg" alt="image"></a>
-	<figcaption> I am not an artist for sure, but I always wished to be, to paint or draw. I felt like I never been good at it but ... I tried and I haven't killed my dream and now I am satisfied with my beginner level graphics. </figcaption>
+	<figcaption> Don't kill your dreams. </figcaption>
 </figure>
