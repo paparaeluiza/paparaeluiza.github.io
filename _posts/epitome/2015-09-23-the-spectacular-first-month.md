@@ -15,19 +15,19 @@ Oh, how fast time flies! Today I celebrate one month of interning among the mini
 </figure>
 
 <figure>
-	<a href="{{site.url}}/images/epitome/23-09-2015/12026528_903178299758013_1383188219_n.jpg"><img src="{{site.url}}/images/epitome/23-09-2015/12026528_903178299758013_1383188219_n.jpg" alt="image"></a>
+	<a href="{{site.url}}/images/epitome/23-09-2015/12053397_903204403088736_902133905_n.jpg"><img src="{{site.url}}/images/epitome/23-09-2015/12053397_903204403088736_902133905_n.jpg" alt="image"></a>
 </figure>
 
 <figure>
-	<a href="{{site.url}}/images/epitome/23-09-2015/12029000_903178293091347_323454319_n.jpg"><img src="{{site.url}}/images/epitome/23-09-2015/12029000_903178293091347_323454319_n.jpg" alt="image"></a>
+	<a href="{{site.url}}/images/epitome/23-09-2015/12033465_903204399755403_2044395426_n.jpg"><img src="{{site.url}}/images/epitome/23-09-2015/12033465_903204399755403_2044395426_n.jpg" alt="image"></a>
 </figure>
 
 <figure>
-	<a href="{{site.url}}/images/epitome/23-09-2015/12042116_903178289758014_435506006_n.jpg"><img src="{{site.url}}/images/epitome/23-09-2015/12042116_903178289758014_435506006_n.jpg" alt="image"></a>
+	<a href="{{site.url}}/images/epitome/23-09-2015/12032457_903204396422070_1100289816_n.jpg"><img src="{{site.url}}/images/epitome/23-09-2015/12032457_903204396422070_1100289816_n.jpg" alt="image"></a>
 </figure>
 
 <figure>
-	<a href="{{site.url}}/images/epitome/23-09-2015/12033597_903196979756145_1474208884_n.jpg"><img src="{{site.url}}/images/epitome/23-09-2015/12033597_903196979756145_1474208884_n.jpg" alt="image"></a>
+	<a href="{{site.url}}/images/epitome/23-09-2015/12023242_903204406422069_351869023_n.jpg"><img src="{{site.url}}/images/epitome/23-09-2015/12023242_903204406422069_351869023_n.jpg" alt="image"></a>
 </figure>
 
 <figure>
