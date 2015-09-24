@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-Oh, how fast time flies! Today I celebrated one month of interning among the minions and the inspiring people from Spinderihallerne. It was a month of adapting, experiencing, becoming brave (by sharing my heart with you), learning, fighting the disappointments, laughing, dancing, making new friends (the Minions, Lars, Mikkel, Sofia, Camilla, Nick), going to shopping sprees and grand openings with sparkling wine and hosting the royal visit. What words can't explain, pictures will show.
+Oh, how fast time flies! Today I celebrate one month of interning among the minions and the inspiring people from Spinderihallerne. It was a month of adapting, experiencing, becoming brave (by sharing my heart with you), learning, fighting the disappointments, laughing, dancing, making new friends (the Minions, Lars, Mikkel, Sofia, Camilla, Nick), going to shopping sprees and grand openings with sparkling wine and hosting the royal visit. What words can't explain, pictures will show.
 
 <figure>
 	<a href="{{site.url}}/images/epitome/23-09-2015/2015-08-1912.40.41.jpg"><img src="{{site.url}}/images/epitome/23-09-2015/2015-08-1912.40.41.jpg" alt="image"></a>
