@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-Oh how fast time flies? Today I celebrated one month of interning. It was a month of adapting, experiencing, becoming brave (by sharing my heart with you), learning, fighting the disappointments, laughing, dancing, making new friends (the Minions, Lars, Mikkel,Sofia, Camilla, Nick), going to shopping sprees and grand openings with sparkling wine and hosting the royal visit. What words can't explain, pictures will show.
+Oh, how fast time flies! Today I celebrated one month of interning among the minions and the iinspiring people from Spinderihallerne. It was a month of adapting, experiencing, becoming brave (by sharing my heart with you), learning, fighting the disappointments, laughing, dancing, making new friends (the Minions, Lars, Mikkel,Sofia, Camilla, Nick), going to shopping sprees and grand openings with sparkling wine and hosting the royal visit. What words can't explain, pictures will show.
 
 <figure>
 	<a href="{{site.url}}/images/epitome/23-09-2015/2015-08-1912.40.41.jpg"><img src="{{site.url}}/images/epitome/23-09-2015/2015-08-1912.40.41.jpg" alt="image"></a>
@@ -24,6 +24,10 @@ Oh how fast time flies? Today I celebrated one month of interning. It was a mont
 
 <figure>
 	<a href="{{site.url}}/images/epitome/23-09-2015/12042116_903178289758014_435506006_n.jpg"><img src="{{site.url}}/images/epitome/23-09-2015/12042116_903178289758014_435506006_n.jpg" alt="image"></a>
+</figure>
+
+<figure>
+	<a href="{{site.url}}/images/epitome/23-09-2015/12033597_903196979756145_1474208884_n.jpg"><img src="{{site.url}}/images/epitome/23-09-2015/12033597_903196979756145_1474208884_n.jpg" alt="image"></a>
 </figure>
 
 <figure>
@@ -71,9 +75,5 @@ Oh how fast time flies? Today I celebrated one month of interning. It was a mont
 </figure>
 
 <figure>
-	<a href="{{site.url}}/images/epitome/23-09-2015/11998623_896947593714417_465724184_n.jpg"><img src="{{site.url}}/images/epitome/123-09-2015/11998623_896947593714417_465724184_n.jpg" alt="image"></a>
-</figure>
-
-<figure>
-	<a href="{{site.url}}/images/epitome/23-09-2015/2015-08-1911.51.28.jpg"><img src="{{site.url}}/images/epitome/23-09-2015/2015-08-1911.51.28.jpg" alt="image"></a>
+	<a href="{{site.url}}/images/epitome/23-09-2015/11998623_896947593714417_465724184_n.jpg"><img src="{{site.url}}/images/epitome/23-09-2015/11998623_896947593714417_465724184_n.jpg" alt="image"></a>
 </figure>
