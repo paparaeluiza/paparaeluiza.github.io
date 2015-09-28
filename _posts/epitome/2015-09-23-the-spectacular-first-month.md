@@ -43,6 +43,10 @@ Oh, how fast time flies! Today I celebrate one month of interning among the mini
 </figure>
 
 <figure>
+	<a href="{{site.url}}/images/epitome/23-09-2015/11849218_887684104619138_1632151314_n(1).jpg"><img src="{{site.url}}/images/epitome/23-09-2015/11849218_887684104619138_1632151314_n(1).jpg" alt="image"></a>
+</figure>
+
+<figure>
 	<a href="{{site.url}}/images/epitome/23-09-2015/IMG_1353.JPG"><img src="{{site.url}}/images/epitome/23-09-2015/IMG_1353.JPG" alt="image"></a>
 </figure>
 
