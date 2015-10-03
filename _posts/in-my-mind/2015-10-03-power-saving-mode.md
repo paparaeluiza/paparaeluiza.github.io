@@ -7,7 +7,7 @@ tags: [time, project, energy ]
 comments: true
 share: true
 ---
-How many times you had been procrastinating and losing the time notion? How many times you wished to have more time to study for an examen or to write a project? We complain of not having enough time and end up watching "Gossip Girl" or cats and dogs funny videos on You Tube.
+How many times you had been procrastinating and losing the time notion? How many times you wished to have more time to study for an exam or to write a project? We complain of not having enough time and end up watching "Gossip Girl" or cats and dogs funny videos on You Tube.
 
 One year ago I just come to my senses. I stared to think on the situation I was, and I realized that I was prioritizing my actions completely irrational. So I decided to set personal goals, place them on a time frame and write it down on paper. It is important to create a purpose of your daily activities and have a focus, a course of action and an outcome that will help you improve in your professional or personal life. It may sound very cheesy but like many of you, 10 months ago, I set my New Year's resolution. I wrote down a list with wishes and dreams, goals that I thought it will help me develop. Up next I will share, my 5 goals list, that I found relevant at the beginning of 2015.
 
