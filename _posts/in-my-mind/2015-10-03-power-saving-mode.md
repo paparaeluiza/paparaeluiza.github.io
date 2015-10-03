@@ -19,7 +19,7 @@ One year ago I just come to my senses. I stared to think on the situation I was,
 
 The thing with setting goals and writing them down is that you begin to feel guilty if you don't try to fulfill them, so I found it a useful motivation tool for getting things done. I am proud to declare that 4 goals from the above list I managed to accomplish, taking dance classes is the only one not fulfilled so far.
 
-Having an organized action plan it helps to channel your energy towards what really matters. You need to be aware of your energy level and if it's worthy to do things that offers nothing back. Once in a while is good to have a break and think about the process but it is not worthy if the break doesn't charges your battery.
+Having an organized action plan it helps to channel your energy towards what really matters. You need to be aware of your energy level and how worthy is to do things that offers nothing back. Once in a while is good to have a break and think about the process but it is not worthy if the break doesn't charges your battery.
 
 <figure>
 	<a href="{{site.url}}/images/in-my-mind/03-10-2015/IMG_1570.jpg"><img src="{{site.url}}/images/in-my-mind/03-10-2015/IMG_1570.jpg" alt="image"></a>
