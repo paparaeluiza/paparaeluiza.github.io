@@ -23,5 +23,5 @@ Having an organized action plan it helps to channel your energy towards what rea
 
 <figure>
 	<a href="{{site.url}}/images/in-my-mind/03-10-2015/IMG_1570.jpg"><img src="{{site.url}}/images/in-my-mind/03-10-2015/IMG_1570.jpg" alt="image"></a>
-	<figcaption> Do not waste your energy on nonsenses! </figcaption>
+	<figcaption> Do not waste your energy on nonsense! </figcaption>
 </figure>
