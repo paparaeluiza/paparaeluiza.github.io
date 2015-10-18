@@ -3,7 +3,7 @@ layout: post
 title: "Communities - the future"
 excerpt: "Vejle Spinderihallerne Internship"
 categories: interning
-tags: [groups, belonging, activities]
+tags: [groups, belonging, activities, networking]
 comments: true
 share: true
 ---
