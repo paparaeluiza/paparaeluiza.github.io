@@ -62,3 +62,8 @@ But up next, my fun month in pictures. :tada:
 	<a href="{{site.url}}/images/epitome/21-10-2015/ScreenShot2015-10-22at14.25.00.jpg"><img src="{{site.url}}/images/epitome/22-10-2015/ScreenShot2015-10-22at14.25.00.jpg" alt="image"></a>
 	<figcaption>Celebrating 100 LIKEs on The Spinning Intern official page.</figcaption>
 </figure>
+
+<figure>
+	<a href="{{site.url}}/images/epitome/21-10-2015/IMG_1636.jpg"><img src="{{site.url}}/images/epitome/22-10-2015/IMG_1636.jpg" alt="image"></a>
+	<figcaption>Autumn is here.</figcaption>
+</figure>
