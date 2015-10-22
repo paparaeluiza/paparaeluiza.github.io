@@ -7,7 +7,7 @@ tags: [vejle, journal, thoughts]
 comments: true
 share: true
 ---
-Oh, how time flies and takes with it my internship days! This month my task became more serious and complex. Two weeks ago I had designed the BA report research, I had to find the best research solution and test it. Now I am in this phase where I wait for the respondents to fill in my questionnaire. Waiting is the hardest part so far, without the data that I need there is no research, no BA topic to be analyzed, no graduation. :flushed:
+Oh, how time flies and takes with it my internship days! This month my task became more serious and complex. Two weeks ago I had designed the BA report research, I had to find the best research solution and test it. Now I am in this phase where I wait for the respondents to fill in my questionnaire. Waiting is the hardest part so far, without this data there is no research, no BA topic to be analyzed, no graduation. :flushed:
 
 You will find out about my BA topic, next month, at the end of my internship. All I can tell is that I become aware of an amazing tool that was out there all this time but I never used it at its full intensity. Everything is so simple, that once in a while, during the day, you should pause and just think ... that's how this magic tool works and creates value.
 
