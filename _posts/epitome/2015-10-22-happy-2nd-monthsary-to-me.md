@@ -44,7 +44,7 @@ But up next, my fun, month in pictures. :tada:
 </figure>
 
 <figure>
-	<a href="{{site.url}}/images/epitome/22-10-2015/IMAG2281.jpg"><img src="{{site.url}}/images/epitome/22-10-2015/IMAG2281.jpg" alt="image"></a>
+	<a href="{{site.url}}/images/epitome/22-10-2015/IMG_1575.jpg"><img src="{{site.url}}/images/epitome/22-10-2015/IMG_1575.jpg" alt="image"></a>
 	<figcaption>Vejle Kommune interns network collaboration papers.</figcaption>
 </figure>
 
