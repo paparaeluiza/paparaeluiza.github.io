@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Happy 2nd month"
+title: "Happy 2nd monthsary to me"
 excerpt: "Vejle Spinderihallerne Interning Experience Time"
 categories: epitome
 tags: [vejle, journal, thoughts]
