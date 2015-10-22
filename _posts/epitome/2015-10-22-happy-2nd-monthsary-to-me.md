@@ -11,7 +11,7 @@ Oh, how time flies and takes with it my internship days! This month my task beca
 
 You will find out more about my BA topic, next month, at the end of my internship. All I can tell is that I become aware of an amazing tool that was out there all this time but I never used it at its full intensity. Everything is so simple, that once in a while, during the day, you should pause and just think ... that's how this magic tool works and creates value.
 
-But up next, my fun, month in pictures. :tada:
+But up next, my fun month in pictures. :tada:
 
 <figure>
 	<a href="{{site.url}}/images/epitome/22-10-2015/IMG_1555.jpg"><img src="{{site.url}}/images/epitome/22-10-2015/IMG_1555.jpg" alt="image"></a>
@@ -40,7 +40,7 @@ But up next, my fun, month in pictures. :tada:
 
 <figure>
 	<a href="{{site.url}}/images/epitome/22-10-2015/IMAG2281.jpg"><img src="{{site.url}}/images/epitome/22-10-2015/IMAG2281.jpg" alt="image"></a>
-	<figcaption>Vejle Midtpunkt, Vejle's Kommune interns network meeting place. Photo credit - Hannah Lauridsen</figcaption>
+	<figcaption>Vejle Midtpunkt, Vejle's Kommune interns network meeting place. Photo credit - Hannah Lauridsen.</figcaption>
 </figure>
 
 <figure>
