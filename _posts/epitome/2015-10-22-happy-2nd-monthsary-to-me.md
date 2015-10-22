@@ -39,8 +39,8 @@ But up next, my fun, month in pictures. :tada:
 </figure>
 
 <figure>
-	<a href="{{site.url}}/images/epitome/22-10-2015/IMAG2280.jpg"><img src="{{site.url}}/images/epitome/22-10-2015/IMAG2280.jpg" alt="image"></a>
-	<figcaption>Vejle Midtpunkt, Vejle Kommune interns network meeting place.</figcaption>
+	<a href="{{site.url}}/images/epitome/22-10-2015/IMAG2281.jpg"><img src="{{site.url}}/images/epitome/22-10-2015/IMAG2281.jpg" alt="image"></a>
+	<figcaption>Vejle Midtpunkt, Vejle's Kommune interns network meeting place.</figcaption>
 </figure>
 
 <figure>
