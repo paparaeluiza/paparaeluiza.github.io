@@ -50,7 +50,7 @@ But up next, my fun month in pictures. :tada:
 
 <figure>
 	<a href="{{site.url}}/images/epitome/22-10-2015/11239649_1005259802828115_3311420907679537613_o.jpg"><img src="{{site.url}}/images/epitome/22-10-2015/11239649_1005259802828115_3311420907679537613_o.jpg" alt="image"></a>
-	<figcaption>Spuse House Vejle meeting, hosted by Fabrikanterne.</figcaption>
+	<figcaption>Spuse House Vejle meeting, hosted by Fabrikanterne. Photo credit - Sofia Rodrigues.</figcaption>
 </figure>
 
 <figure>
