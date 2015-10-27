@@ -7,7 +7,7 @@ tags: [thoughts, vejle, EAL, Hans]
 comments: true
 share: true
 ---
-Starting from August I am on the last semester of my education, even if it doesn't feel this way. Apart for checking Fronter every week, for the latest informations, I didn't had much contact with the school atmosphere. Is a strange feeling to be a student but to not attend classes every day and meet your teachers and classmates. I guess this is a transition period that helps me adapt for the next stage in my life.
+Starting from August I am on the last semester of my education, even if it doesn't feel this way. Apart for checking Fronter every week, for the latest informations, I didn't had much contact with the school atmosphere. Is a strange feeling to be a student but to not attend classes every day and meet your teachers and classmates. I guess this is a transition period that prepares me for the next stage in my life.
 
 The internship period seems like a complex emotional time, where you prepare for the job market, and leave behind your classmates' silly jokes. Today, Hans my internship coordinator, visited Spinderihallerne. Why I write about this visit is it made me feel that I was back to school. We talked about my activity so far and also about my future BA project. It feels comforting to know that a second person has my back along the process, presenting interest about my tasks, my BA topic, my development and my learning process.
 
