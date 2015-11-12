@@ -48,7 +48,8 @@ It was refreshing to be out of the office among the young generation of future e
 </figure>
 
 <figure>
-	<a href="{{site.url}}/images/interning/11-11-2015/IMG_1684.png"><img src="{{site.url}}/images/interning/11-11-2015/IMG_1684.png" alt="image"></a>
+	<a href="{{site.url}}/images/interning/11-11-2015/IMG_1684.png"><img src="{{site.url}}/images/interning/11-11-2015/IMG_1684.png" alt="image"></a>\
+  <figcaption>The QR man project.</figcaption>
 </figure>
 
 <figure>
