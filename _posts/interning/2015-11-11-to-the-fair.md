@@ -8,9 +8,9 @@ comments: true
 share: true
 ---
 
-Oh, how time flies when you deal with school related businesses. On the last 2 weeks since my last post I have been dealing with school projects. Last week I have been busy working in parallel for two projects, my internship report, that is handed in, and my BA report research. So far the focus was on the school projects and to little on other events. But, today, I got back in business, I had been the judge assistant:bowtie: for the Vejle Edison competition.
+Oh, how time flies when you deal with school related businesses. On the last 2 weeks I have been dealing with school projects, working in parallel for my internship report, that is handed in, and my BA report research. So far the focus was on the school projects and to little on other events. But, today, I've return to the fun part of my job; I had been the judge assistant:bowtie: for the Vejle Edison competition.
 
-Edison is a project-oriented courses for 6th and 7th graders. The students used their creativity, innovation and entrepreneurship knowledge to develop concepts or products that aimed at solving problems or improving the quality of life for a large group of people in society. Today the different teams exhibited and competed at the local event in Vejle municipality. The products and concepts were assessed and compared by external judges who rewarded the best projects. The Edison course will culminate in a major <a href="http://www.award2015.dk/" target="_blank"> national exhibition</a>, where students compete to win the 2015 Edison Prize.
+Edison is a project-oriented courses for 6th and 7th graders. The students used their creativity, innovation and entrepreneurship knowledge to develop concepts or products that aimed at improving the quality of life for a large group of people in society. Today, the different teams exhibited and competed at the local event in Vejle municipality. The products and concepts were assessed and compared by external judges who rewarded the best projects. The Edison course will culminate in a major <a href="http://www.award2015.dk/" target="_blank"> national exhibition</a>, where students compete to win the 2015 Edison Prize.
 
 It was refreshing to be out of the office among the young generation of future entrepreneurs. And man, what over the top displays, prototypes and ideas they had. If you don't believe me see for yourself.
 
@@ -53,8 +53,8 @@ It was refreshing to be out of the office among the young generation of future e
 </figure>
 
 <figure>
-	<a href="{{site.url}}/images/interning/11-11-2015/IMG_1685.jpg><img src="{{site.url}}/images/interning/11-11-2015/IMG_1685.jpg" alt="image"></a>
-  <figcaption>Healthy candy company.</figcaption>
+	<a href="{{site.url}}/images/interning/11-11-2015/IMG_1685.jpg"><img src="{{site.url}}/images/interning/11-11-2015/IMG_1685.jpg" alt="image"></a>
+	<figcaption>Healthy candy company.</figcaption>
 </figure>
 
 <figure>
