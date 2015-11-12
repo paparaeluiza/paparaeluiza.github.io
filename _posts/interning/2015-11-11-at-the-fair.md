@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-Oh, how time flies when you deal with school related businesses. On the last 2 weeks I have been dealing with school projects, working in parallel for my internship report, that is handed in, and my BA report research. So far the focus was on the school projects and to little on other events. But, today, I've return to the fun part of my job; I had been the judge assistant:bowtie: for the Vejle Edison competition.
+Oh, how time flies when you deal with school related businesses. On the last 2 weeks I have been dealing with school projects, working in parallel for my internship report and my BA report research. So far the focus was on the school projects and to little on other events. But, today, I've return to the fun part of my job; I had been the judge assistant:bowtie: for the Vejle Edison competition.
 
 Edison is a project-oriented courses for 6th and 7th graders. The students used their creativity, innovation and entrepreneurship knowledge to develop concepts or products that aimed at improving the quality of life for a large group of people in society. Today, the different teams exhibited and competed at the local event in Vejle municipality. The products and concepts were assessed and compared by external judges who rewarded the best projects. The Edison course will culminate in a major <a href="http://www.award2015.dk/" target="_blank"> national exhibition</a>, where students compete to win the 2015 Edison Prize.
 
