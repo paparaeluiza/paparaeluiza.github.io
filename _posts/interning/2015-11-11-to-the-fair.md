@@ -82,4 +82,4 @@ It was refreshing to be out of the office among the young generation of future e
 	<figcaption>The joke milk carton.</figcaption>
 </figure>
 
-What I have learned from this experience, is that it was hard to judge the students projects in an objective manner. There were good projects and less inspired projects, but it was important to support the participation and the small brains at the presentation table. I also consider that is a very good strategy, from an educational point of view, to nurture the entrepreneurial spirit at such a young age.
+What I have learned from this experience, is that it was hard to judge the students projects in an objective manner. There were good projects and less inspired projects, but it was important to support the participation and the small brains from the presentation table. I also consider that is a very good strategy, from an educational point of view, to nurture the entrepreneurial spirit at such a young age.
