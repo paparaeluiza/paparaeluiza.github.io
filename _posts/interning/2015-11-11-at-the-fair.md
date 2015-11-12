@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "To the fair"
+title: "At the fair"
 excerpt: "Innovation Entrepreneurship Fair Ideas Concept"
 categories: interning
 tags: [campus vejle, creativity, 7 graders]
