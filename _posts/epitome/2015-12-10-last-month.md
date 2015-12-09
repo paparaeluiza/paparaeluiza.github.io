@@ -11,7 +11,7 @@ I struggle to write this post for about 5 days. I admit that my internship ended
 
 Why it took so much time to write this last post, I guess because I needed time to say goodbye and to find another project that can use all my energy. My focus at this moment is on my final assignment, that represents the end of my student life (hopefully:pray:), a new beginning and maybe bigger challenges.
 
-How I end this experience, is by reviewing all the activities I been part of and all the wisdom I gather. I laughed and I danced, I got scared and I got confused, I made new friends and I opened new doors.
+How I end this experience, is by reviewing all the activities I took part in and all the wisdom I gather. I laughed and I danced, I got scared and I got confused, I made new friends and I opened new doors.
 
 Now is time for the Spinning Intern to write her BA project and after that she may day dream as much she desires about her future blogging "career". :trollface: This is my last reflection exercise until I will be back in the game.
 
