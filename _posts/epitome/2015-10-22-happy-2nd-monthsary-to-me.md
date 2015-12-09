@@ -19,7 +19,7 @@ But up next, my fun month in pictures. :tada:
 </figure>
 
 <figure>
-	<a href="{{site.url}}/images/epitome/22-01-2015/IMG_1558.jpg"><img src="{{site.url}}/images/epitome/22-10-2015/IMG_1558.jpg" alt="image"></a>
+	<a href="{{site.url}}/images/epitome/22-10-2015/IMG_1558.jpg"><img src="{{site.url}}/images/epitome/22-10-2015/IMG_1558.jpg" alt="image"></a>
 	<figcaption>Picture break.</figcaption>
 </figure>
 
