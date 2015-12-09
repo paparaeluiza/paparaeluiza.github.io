@@ -13,7 +13,7 @@ Why it took so much time to write this last post, I guess because I needed time 
 
 How I end this experience, is by reviewing all the activities I took part in and all the wisdom I gather. I laughed and I danced, I got scared and I got confused, I made new friends and I opened new doors.
 
-Now is time for the Spinning Intern to write her BA project and after that she may day dream as much she desires about her future blogging "career". :trollface: This is my last reflection exercise until I will be back in the game.
+Now is time for the Spinning Intern to write her BA project and after that she may day dream as much she desires about her future blogging "career". :trollface: This is my last reflection exercise until I will be back...
 
 I would like to thank to all my friends who fallowed my journey and read my posts and to my colleagues from  <a href="http://www.spinderihallerne.dk/forside/" target="_blank">Spinderihallerne</a>.  
 
