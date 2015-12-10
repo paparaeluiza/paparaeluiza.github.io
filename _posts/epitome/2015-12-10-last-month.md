@@ -7,7 +7,7 @@ tags: [vejle, journal, thoughts]
 comments: true
 share: true
 ---
-I struggle to write this post for about 5 days. I admit that my internship ended almost a month ago, but I was not ready to say goodbye to the Spinning Intern. The thing is that even thought the future of the blog seems uncertain I will be forever the Spinning Intern who documented her experiences, and shared with the external world her thoughts.
+I struggled to write this post for about 5 days. I admit that my internship ended almost a month ago, but I was not ready to say goodbye to the Spinning Intern. The thing is that even thought the future of the blog seems uncertain I will be forever the Spinning Intern who documented her experiences, and shared with the external world her thoughts.
 
 Why it took so much time to write this last post, I guess because I needed time to say goodbye and to find another project that can use all my energy. My focus at this moment is on my final assignment, that represents the end of my student life (hopefully:pray:), a new beginning and maybe bigger challenges.
 
