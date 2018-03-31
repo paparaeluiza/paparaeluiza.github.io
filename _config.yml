@@ -6,6 +6,7 @@ description: Internship Journal and Motivational Blog
 logo: schita-logo.png
 search: true
 url: https://paparaeluiza.github.io
+time: 2018
 
 # Jekyll configuration
 
@@ -44,7 +45,7 @@ owner:
   github: #username
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
-  instagram: luiza_pap #username
+  instagram: the_spinning_intern #username
   flickr: #username
   tumblr: #username
   pinterest: #username

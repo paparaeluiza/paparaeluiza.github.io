@@ -6,20 +6,23 @@
 #- title: Articles
 #  url: /articles/
 
-- title: Interning
-  url: /interning/
+#- title: Interning
+#  url: /interning/
 
 #- title: Blog
 #  url: /blog/
 
-- title: In my mind
-  url: /in-my-mind/
+#- title: In my mind
+#  url: /in-my-mind/
 
-- title: Epitome
-  url: /epitome/
+#- title: Epitome
+#  url: /epitome/
 
 #- title: Theme Setup
 #  url: /theme-setup/
+
+- title: Photo Challenge
+  url: /photo-challenge/
 
 #- title: Made Mistakes
 #  url: http://mademistakes.com
