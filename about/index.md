@@ -1,16 +1,16 @@
 ---
 layout: page
-title: This Intern
-excerpt: "Luiza Papara"
-modified: 2014-08-08T19:44:38.564948-04:00
+title: 30/31
+excerpt: "Luiza Onciu Papara"
+modified: 2018-03-31T19:44:38.564948-04:00
 #image:
 #  feature: so-simple-sample-image-4.jpg
 #  credit: WeGraphics
 #  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-The present journal is a tool in documenting the internship period at Spinderihallerne within Innovation and Business Development Department. This interns mind never pauses. Either I write about the plans of tomorrow or I write about the worries of today, this blog is the evidence of my 3 months journey. With great expectation I start, with magnificent life lessons I will finish.
+The present photo journal is a tool in documenting my journey in learning all about photography. During the last year I became mesmerized by Pinterest and how information and beautiful experiences are shared through pictures. I can't tell how many hours per week I spent on Pinterest creating boards. This is a life style. :)
 
-I am all the cliches that you heard of: a fast learner, open minded, ambitious and enthusiastic, always trying to push myself to the limits so I can give my best in everything. But what is far most important to mention is that I have a fine irony hard to keep up with. :D
+During my long hours of research on the above mentioned app, I found out about the 30/31 days photo challenge. And I said to my self, why not try it? The plan is to snap a picture every day following the list with the daily photo challenges. Every month I will make a post with "the list" and everyday I will post a picture on this photo journal.
 
-My story is simple, not so far in the past I was an average person, the average class mate, no special skills, no special interests, no hobbies. Still the past is past and the new me has discovered the power of trying, the power of positive thinking, not afraid of failure. The entrepreneurial mind set is on and nothing can stop me. I use the present project, “The spinning intern”,  in order to evaluate my 3 months of personal and professional development.
+Just have in mind I am not a professional, I do not have any experience whatsoever but I would like to learn more about photography.
