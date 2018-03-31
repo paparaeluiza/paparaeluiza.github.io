@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 30/31
+title: 30/31 photo challenge
 excerpt: "Luiza Onciu Papara"
 modified: 2018-03-31T19:44:38.564948-04:00
 #image:
